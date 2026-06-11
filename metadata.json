@@ -1,0 +1,6 @@
+{
+  "name": "NeuroGrip",
+  "description": "A specialized clinical stroke recovery and grip strength rehabilitation dashboard. Helps survivors track progress, run therapeutic sessions, log repetitions, and review physical therapy metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
